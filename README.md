@@ -24,4 +24,4 @@ Entity class diagram with common user
 ![image](https://github.com/UntitledCodeMachineGun/Rozetka/assets/60801418/03639812-c7ca-4a45-a665-9a7b152ea73d)
 
 Approximate BL class diagram
-![image](https://github.com/UntitledCodeMachineGun/Rozetka/assets/60801418/ee577f98-e846-448d-8bc2-6a0d76170385)
+![image](https://github.com/UntitledCodeMachineGun/Rozetka/assets/60801418/8bd1da3b-0f5f-42c6-ae1c-f32dc1418871)
