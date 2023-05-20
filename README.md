@@ -20,7 +20,7 @@ Reviews will be marked that user bought this product or not.
 As a seller you can add/delete/edit your store\`s products. Products are adding to already created store categories. You can check popularity of a product or a category by views and sellings.  
 A seller can answer to user\`s reviews or questions. Your store have personal page with store\`s products and information that you can edit. Also you can change your password.  
 
-Entity class diagram
+Entity class diagram with common user
 ![image](https://github.com/UntitledCodeMachineGun/Rozetka/assets/60801418/03639812-c7ca-4a45-a665-9a7b152ea73d)
 
 Approximate BL class diagram
